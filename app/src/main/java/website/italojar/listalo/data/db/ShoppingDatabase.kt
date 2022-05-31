@@ -1,9 +1,10 @@
-package website.italojar.listalo.data
+package website.italojar.listalo.data.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import website.italojar.listalo.data.db.entities.ShoppingItem
 
 @Database(
     entities = [ShoppingItem::class],

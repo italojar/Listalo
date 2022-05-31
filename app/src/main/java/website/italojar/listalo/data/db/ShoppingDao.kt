@@ -1,7 +1,8 @@
-package website.italojar.listalo.data
+package website.italojar.listalo.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import website.italojar.listalo.data.db.entities.ShoppingItem
 
 @Dao
 interface ShoppingDao {

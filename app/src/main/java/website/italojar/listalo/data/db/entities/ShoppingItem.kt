@@ -1,4 +1,4 @@
-package website.italojar.listalo.data
+package website.italojar.listalo.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
