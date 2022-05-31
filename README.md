@@ -1,1 +1,1 @@
-# Lista de la compra | Listalo"
+# Lista de la compra | Listalo
