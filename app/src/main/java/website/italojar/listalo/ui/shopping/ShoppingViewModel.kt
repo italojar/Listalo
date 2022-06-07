@@ -19,5 +19,5 @@ class ShoppingViewModel(
         repository.delete(item)
     }
 
-    fun getAllShoppingItems(item: ShoppingItem) = repository.getAllShoppingItems()
+    fun getAllShoppingItems() = repository.getAllShoppingItems()
 }

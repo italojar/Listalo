@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Listalo</string>
+    <string name="image_content_description">image</string>
+    <string name="add_name_item_dialog">Nombre del producto</string>
+    <string name="add_amount_item_dialog">Cantidad</string>
+    <string name="cancel_dialog">Cancelar</string>
+    <string name="add_dialog">Añadir</string>
+    <string name="title_add_new_item_dialog">Añadir nuevo producto</string>
 </resources>
